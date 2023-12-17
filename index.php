@@ -144,7 +144,7 @@ include("include/connect.php"); ?>
 		<div id="header">
 			<div id="lg-header">
 				<h1>
-					<!-- <a href="index.php">logo</a> -->
+					<a href="index.php"> <img src="./img/logo-header.png"/></a>
 				</h1>
 			</div>
 			<!-- End .bg-lg-header -->
@@ -246,7 +246,7 @@ include("include/connect.php"); ?>
 				<div id="noidungfooter">
 					<div id="lg-footer">
 						<h3>
-							<!-- <a href="index.php">logo</a> -->
+							<a href="index.php"><img src="./img/logo-footer.png" alt="logo-cc" srcset=""></a>
 						</h3>
 					</div><!-- End .lg-footer -->
 					<div id="noidung">
